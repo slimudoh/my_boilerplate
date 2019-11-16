@@ -1,0 +1,8 @@
+{
+    "environment": "production environment",
+    "name": "app_name",
+    "db": "DB_NAME",
+    "db_host": "DB_HOST",
+    "db_username": "DB_USERNAME",
+    "db_password": "DB_PASSWORD"
+}
